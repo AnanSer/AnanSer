@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anan Serbesa</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h3 align="center">A Passionate Full-Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif">
 
 
